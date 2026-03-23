@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter clean:*)",
+      "Bash(taskkill /F /IM easydict.exe)",
+      "Bash(taskkill //F //IM easydict.exe)"
+    ]
+  }
+}
